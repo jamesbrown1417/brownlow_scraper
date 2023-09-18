@@ -2,7 +2,7 @@ market_name,proposition_name,market_price
 2023 Brownlow Medal Winner 25/09,DAICOS Nick (COL),2.8
 2023 Brownlow Medal Winner 25/09,BONTEMPELLI Marcus (WB),3.0
 2023 Brownlow Medal Winner 25/09,BUTTERS Zak (PA),5.5
-2023 Brownlow Medal Winner 25/09,PETRACCA Christian (MEL),6.25
+2023 Brownlow Medal Winner 25/09,PETRACCA Christian (MEL),6.0
 2023 Brownlow Medal Winner 25/09,NEALE Lachie (BRI),13.0
 2023 Brownlow Medal Winner 25/09,TARANTO Tim (RIC),41.0
 2023 Brownlow Medal Winner 25/09,DAWSON Jordan (ADE),51.0
@@ -12,8 +12,8 @@ market_name,proposition_name,market_price
 2023 Brownlow Medal Winner 25/09,ANDERSON Noah (GC),151.0
 2023 Brownlow Medal Winner 25/09,SINCLAIR Jack (STK),151.0
 2023 Brownlow Medal Winner 25/09,CRIPPS Patrick (CAR),151.0
-2023 Brownlow Medal Winner 25/09,MARSHALL Rowan (STK),201.0
 2023 Brownlow Medal Winner 25/09,VINEY Jack (MEL),201.0
+2023 Brownlow Medal Winner 25/09,MARSHALL Rowan (STK),201.0
 2023 Brownlow Medal Winner 25/09,CURNOW Charlie (CAR),251.0
 2023 Brownlow Medal Winner 25/09,DUNKLEY Josh (BRI),251.0
 2023 Brownlow Medal Winner 25/09,ROWELL Matt (GC),251.0
@@ -23,6 +23,8 @@ market_name,proposition_name,market_price
 2023 Brownlow Medal Winner 25/09,BRAYSHAW Andrew (FRE),251.0
 2023 Brownlow Medal Winner 25/09,WARNER Chad (SYD),351.0
 2023 Brownlow Medal Winner 25/09,KELLY Tim (WCE),501.0
+2023 Brownlow Medal Winner 25/09,DAICOS Josh (COL),501.0
+2023 Brownlow Medal Winner 25/09,LIBERATORE Tom (WB),501.0
 2023 Brownlow Medal Winner 25/09,MITCHELL Tom (COL),501.0
 2023 Brownlow Medal Winner 25/09,MACRAE Jackson (WB),501.0
 2023 Brownlow Medal Winner 25/09,DANGERFIELD Patrick (GEE),501.0
@@ -31,8 +33,6 @@ market_name,proposition_name,market_price
 2023 Brownlow Medal Winner 25/09,PARISH Darcy (ESS),501.0
 2023 Brownlow Medal Winner 25/09,WALSH Sam (CAR),501.0
 2023 Brownlow Medal Winner 25/09,RAYNER Cameron (BRI),501.0
-2023 Brownlow Medal Winner 25/09,LIBERATORE Tom (WB),501.0
-2023 Brownlow Medal Winner 25/09,DAICOS Josh (COL),501.0
 2023 Brownlow Medal Top 3 25/09,DAICOS Nick (COL),1.2
 2023 Brownlow Medal Top 3 25/09,BONTEMPELLI Marcus (WB),1.3
 2023 Brownlow Medal Top 3 25/09,PETRACCA Christian (MEL),1.75
@@ -40,63 +40,63 @@ market_name,proposition_name,market_price
 2023 Brownlow Medal Top 3 25/09,NEALE Lachie (BRI),2.75
 2023 Brownlow Medal Top 3 25/09,SERONG Caleb (FRE),5.5
 2023 Brownlow Medal Top 3 25/09,TARANTO Tim (RIC),7.5
-2023 Brownlow Medal Top 3 25/09,ROZEE Connor (PA),9.0
-2023 Brownlow Medal Top 3 25/09,GULDEN Errol (SYD),9.0
 2023 Brownlow Medal Top 3 25/09,DAWSON Jordan (ADE),9.0
+2023 Brownlow Medal Top 3 25/09,GULDEN Errol (SYD),9.0
+2023 Brownlow Medal Top 3 25/09,ROZEE Connor (PA),9.0
 2023 Brownlow Medal Top 3 25/09,MERRETT Zach (ESS),11.0
 2023 Brownlow Medal Top 3 25/09,GREENE Toby (GWS),15.0
 2023 Brownlow Medal Top 3 25/09,SINCLAIR Jack (STK),21.0
 2023 Brownlow Medal Top 3 25/09,ANDERSON Noah (GC),21.0
-2023 Brownlow Medal Top 3 25/09,CRIPPS Patrick (CAR),26.0
 2023 Brownlow Medal Top 3 25/09,BRAYSHAW Andrew (FRE),26.0
+2023 Brownlow Medal Top 3 25/09,CRIPPS Patrick (CAR),26.0
 2023 Brownlow Medal Top 3 25/09,LAIRD Rory (ADE),34.0
 2023 Brownlow Medal Top 3 25/09,VINEY Jack (MEL),41.0
-2023 Brownlow Medal Top 3 25/09,GREEN Tom (GWS),41.0
 2023 Brownlow Medal Top 3 25/09,CURNOW Charlie (CAR),41.0
+2023 Brownlow Medal Top 3 25/09,GREEN Tom (GWS),41.0
 2023 Brownlow Medal Top 3 25/09,DAICOS Josh (COL),81.0
-2023 Brownlow Medal Top 3 25/09,KELLY Josh (GWS),101.0
-2023 Brownlow Medal Top 3 25/09,CERRA Adam (CAR),101.0
+2023 Brownlow Medal Top 3 25/09,BOLTON Shai (RIC),101.0
+2023 Brownlow Medal Top 3 25/09,WARNER Chad (SYD),101.0
 2023 Brownlow Medal Top 3 25/09,STEELE Jack (STK),101.0
-2023 Brownlow Medal Top 3 25/09,MCCLUGGAGE Hugh (BRI),101.0
-2023 Brownlow Medal Top 3 25/09,DE GOEY Jordan (COL),101.0
-2023 Brownlow Medal Top 3 25/09,CAMERON Jeremy (GEE),101.0
-2023 Brownlow Medal Top 3 25/09,TRELOAR Adam (WB),101.0
 2023 Brownlow Medal Top 3 25/09,SICILY James (HAW),101.0
-2023 Brownlow Medal Top 3 25/09,NEWCOMBE Jai (HAW),101.0
-2023 Brownlow Medal Top 3 25/09,CROUCH Brad (STK),101.0
-2023 Brownlow Medal Top 3 25/09,MILLS Callum (SYD),101.0
 2023 Brownlow Medal Top 3 25/09,ROWELL Matt (GC),101.0
+2023 Brownlow Medal Top 3 25/09,DE GOEY Jordan (COL),101.0
+2023 Brownlow Medal Top 3 25/09,CROUCH Brad (STK),101.0
 2023 Brownlow Medal Top 3 25/09,PARKER Luke (SYD),101.0
+2023 Brownlow Medal Top 3 25/09,TRELOAR Adam (WB),101.0
+2023 Brownlow Medal Top 3 25/09,KELLY Josh (GWS),101.0
+2023 Brownlow Medal Top 3 25/09,NEWCOMBE Jai (HAW),101.0
+2023 Brownlow Medal Top 3 25/09,CAMERON Jeremy (GEE),101.0
+2023 Brownlow Medal Top 3 25/09,MARTIN Dustin (RIC),101.0
+2023 Brownlow Medal Top 3 25/09,PARISH Darcy (ESS),101.0
+2023 Brownlow Medal Top 3 25/09,WALSH Sam (CAR),101.0
+2023 Brownlow Medal Top 3 25/09,MCCLUGGAGE Hugh (BRI),101.0
+2023 Brownlow Medal Top 3 25/09,GAWN Max (MEL),101.0
+2023 Brownlow Medal Top 3 25/09,WINES Ollie (PA),101.0
+2023 Brownlow Medal Top 3 25/09,DAVIES-UNIACKE Luke (NM),101.0
+2023 Brownlow Medal Top 3 25/09,DANGERFIELD Patrick (GEE),101.0
+2023 Brownlow Medal Top 3 25/09,MILLS Callum (SYD),101.0
+2023 Brownlow Medal Top 3 25/09,LIBERATORE Tom (WB),101.0
+2023 Brownlow Medal Top 3 25/09,CERRA Adam (CAR),101.0
 2023 Brownlow Medal Top 3 25/09,DUNKLEY Josh (BRI),101.0
+2023 Brownlow Medal Top 3 25/09,PENDLEBURY Scott (COL),101.0
+2023 Brownlow Medal Top 3 25/09,WHITFIELD Lachie (GWS),101.0
+2023 Brownlow Medal Top 3 25/09,RAYNER Cameron (BRI),101.0
 2023 Brownlow Medal Top 3 25/09,CONIGLIO Stephen (GWS),101.0
 2023 Brownlow Medal Top 3 25/09,ENGLISH Tim (WB),101.0
 2023 Brownlow Medal Top 3 25/09,KELLY Tim (WCE),101.0
-2023 Brownlow Medal Top 3 25/09,LIBERATORE Tom (WB),101.0
-2023 Brownlow Medal Top 3 25/09,WARNER Chad (SYD),101.0
 2023 Brownlow Medal Top 3 25/09,OLIVER Clayton (MEL),101.0
-2023 Brownlow Medal Top 3 25/09,PARISH Darcy (ESS),101.0
-2023 Brownlow Medal Top 3 25/09,MARTIN Dustin (RIC),101.0
-2023 Brownlow Medal Top 3 25/09,RAYNER Cameron (BRI),101.0
-2023 Brownlow Medal Top 3 25/09,WHITFIELD Lachie (GWS),101.0
-2023 Brownlow Medal Top 3 25/09,DAVIES-UNIACKE Luke (NM),101.0
-2023 Brownlow Medal Top 3 25/09,GAWN Max (MEL),101.0
-2023 Brownlow Medal Top 3 25/09,WINES Ollie (PA),101.0
-2023 Brownlow Medal Top 3 25/09,DANGERFIELD Patrick (GEE),101.0
-2023 Brownlow Medal Top 3 25/09,WALSH Sam (CAR),101.0
-2023 Brownlow Medal Top 3 25/09,PENDLEBURY Scott (COL),101.0
-2023 Brownlow Medal Top 3 25/09,BOLTON Shai (RIC),101.0
 2023 Brownlow Medal Top 3 25/09,MITCHELL Tom (COL),101.0
 2023 Brownlow Medal Top 3 25/09,MACRAE Jackson (WB),101.0
 2023 Brownlow Medal Top 3 25/09,MARSHALL Rowan (STK),101.0
 2023 Brownlow Medal Top 3 25/09,STEWART Tom (GEE),101.0
 2023 Brownlow Medal Top 3 25/09,SHEEZEL Harry (NM),101.0
 2023 Brownlow Medal Top 3 25/09,WOOD Mason (STK),101.0
-2023 Brownlow Medal Top 3 25/09,HORNE-FRANCIS Jason (PA),151.0
-2023 Brownlow Medal Top 3 25/09,JACKSON Luke (FRE),151.0
-2023 Brownlow Medal Top 3 25/09,MARTIN Nic (ESS),151.0
-2023 Brownlow Medal Top 3 25/09,DOCHERTY Sam (CAR),151.0
-2023 Brownlow Medal Top 3 25/09,WALKER Taylor (ADE),151.0
 2023 Brownlow Medal Top 3 25/09,HAWKINS Tom (GEE),151.0
+2023 Brownlow Medal Top 3 25/09,HORNE-FRANCIS Jason (PA),151.0
+2023 Brownlow Medal Top 3 25/09,DOCHERTY Sam (CAR),151.0
+2023 Brownlow Medal Top 3 25/09,MARTIN Nic (ESS),151.0
+2023 Brownlow Medal Top 3 25/09,WALKER Taylor (ADE),151.0
+2023 Brownlow Medal Top 3 25/09,JACKSON Luke (FRE),151.0
 2023 Brownlow Medal Top 5 25/09,DAICOS Nick (COL),1.04
 2023 Brownlow Medal Top 5 25/09,BONTEMPELLI Marcus (WB),1.08
 2023 Brownlow Medal Top 5 25/09,PETRACCA Christian (MEL),1.1
@@ -113,51 +113,51 @@ market_name,proposition_name,market_price
 2023 Brownlow Medal Top 5 25/09,SINCLAIR Jack (STK),9.0
 2023 Brownlow Medal Top 5 25/09,CRIPPS Patrick (CAR),10.0
 2023 Brownlow Medal Top 5 25/09,BRAYSHAW Andrew (FRE),12.0
+2023 Brownlow Medal Top 5 25/09,GREEN Tom (GWS),13.0
+2023 Brownlow Medal Top 5 25/09,VINEY Jack (MEL),13.0
 2023 Brownlow Medal Top 5 25/09,ROWELL Matt (GC),13.0
 2023 Brownlow Medal Top 5 25/09,CURNOW Charlie (CAR),13.0
-2023 Brownlow Medal Top 5 25/09,VINEY Jack (MEL),13.0
-2023 Brownlow Medal Top 5 25/09,GREEN Tom (GWS),13.0
 2023 Brownlow Medal Top 5 25/09,LAIRD Rory (ADE),15.0
-2023 Brownlow Medal Top 5 25/09,LIBERATORE Tom (WB),17.0
-2023 Brownlow Medal Top 5 25/09,DAICOS Josh (COL),17.0
 2023 Brownlow Medal Top 5 25/09,WARNER Chad (SYD),17.0
+2023 Brownlow Medal Top 5 25/09,DAICOS Josh (COL),17.0
+2023 Brownlow Medal Top 5 25/09,LIBERATORE Tom (WB),17.0
 2023 Brownlow Medal Top 5 25/09,NEWCOMBE Jai (HAW),21.0
 2023 Brownlow Medal Top 5 25/09,OLIVER Clayton (MEL),21.0
-2023 Brownlow Medal Top 5 25/09,DUNKLEY Josh (BRI),26.0
 2023 Brownlow Medal Top 5 25/09,CERRA Adam (CAR),26.0
+2023 Brownlow Medal Top 5 25/09,DUNKLEY Josh (BRI),26.0
 2023 Brownlow Medal Top 5 25/09,RAYNER Cameron (BRI),26.0
-2023 Brownlow Medal Top 5 25/09,PARISH Darcy (ESS),34.0
 2023 Brownlow Medal Top 5 25/09,DAVIES-UNIACKE Luke (NM),34.0
+2023 Brownlow Medal Top 5 25/09,PARISH Darcy (ESS),34.0
 2023 Brownlow Medal Top 5 25/09,BOLTON Shai (RIC),34.0
-2023 Brownlow Medal Top 5 25/09,PENDLEBURY Scott (COL),41.0
-2023 Brownlow Medal Top 5 25/09,DANGERFIELD Patrick (GEE),41.0
-2023 Brownlow Medal Top 5 25/09,CROUCH Brad (STK),41.0
-2023 Brownlow Medal Top 5 25/09,KELLY Tim (WCE),41.0
-2023 Brownlow Medal Top 5 25/09,SICILY James (HAW),41.0
-2023 Brownlow Medal Top 5 25/09,TRELOAR Adam (WB),41.0
 2023 Brownlow Medal Top 5 25/09,MARTIN Dustin (RIC),41.0
+2023 Brownlow Medal Top 5 25/09,KELLY Tim (WCE),41.0
+2023 Brownlow Medal Top 5 25/09,TRELOAR Adam (WB),41.0
+2023 Brownlow Medal Top 5 25/09,SICILY James (HAW),41.0
+2023 Brownlow Medal Top 5 25/09,DANGERFIELD Patrick (GEE),41.0
+2023 Brownlow Medal Top 5 25/09,PENDLEBURY Scott (COL),41.0
+2023 Brownlow Medal Top 5 25/09,CROUCH Brad (STK),41.0
 2023 Brownlow Medal Top 5 25/09,CAMERON Jeremy (GEE),41.0
 2023 Brownlow Medal Top 5 25/09,DE GOEY Jordan (COL),41.0
 2023 Brownlow Medal Top 5 25/09,MACRAE Jackson (WB),41.0
-2023 Brownlow Medal Top 5 25/09,HORNE-FRANCIS Jason (PA),51.0
-2023 Brownlow Medal Top 5 25/09,KELLY Josh (GWS),51.0
-2023 Brownlow Medal Top 5 25/09,MARTIN Nic (ESS),51.0
-2023 Brownlow Medal Top 5 25/09,HAWKINS Tom (GEE),51.0
-2023 Brownlow Medal Top 5 25/09,ENGLISH Tim (WB),51.0
-2023 Brownlow Medal Top 5 25/09,WALKER Taylor (ADE),51.0
-2023 Brownlow Medal Top 5 25/09,CONIGLIO Stephen (GWS),51.0
-2023 Brownlow Medal Top 5 25/09,WALSH Sam (CAR),51.0
+2023 Brownlow Medal Top 5 25/09,STEELE Jack (STK),51.0
 2023 Brownlow Medal Top 5 25/09,DOCHERTY Sam (CAR),51.0
-2023 Brownlow Medal Top 5 25/09,WINES Ollie (PA),51.0
-2023 Brownlow Medal Top 5 25/09,RIOLI Daniel (RIC),51.0
 2023 Brownlow Medal Top 5 25/09,SMITH Bailey (WB),51.0
 2023 Brownlow Medal Top 5 25/09,MILLS Callum (SYD),51.0
+2023 Brownlow Medal Top 5 25/09,RIOLI Daniel (RIC),51.0
+2023 Brownlow Medal Top 5 25/09,WALKER Taylor (ADE),51.0
+2023 Brownlow Medal Top 5 25/09,WINES Ollie (PA),51.0
+2023 Brownlow Medal Top 5 25/09,HAWKINS Tom (GEE),51.0
+2023 Brownlow Medal Top 5 25/09,MCCLUGGAGE Hugh (BRI),51.0
+2023 Brownlow Medal Top 5 25/09,GAWN Max (MEL),51.0
+2023 Brownlow Medal Top 5 25/09,ENGLISH Tim (WB),51.0
+2023 Brownlow Medal Top 5 25/09,MARTIN Nic (ESS),51.0
+2023 Brownlow Medal Top 5 25/09,PARKER Luke (SYD),51.0
+2023 Brownlow Medal Top 5 25/09,WALSH Sam (CAR),51.0
+2023 Brownlow Medal Top 5 25/09,CONIGLIO Stephen (GWS),51.0
+2023 Brownlow Medal Top 5 25/09,KELLY Josh (GWS),51.0
 2023 Brownlow Medal Top 5 25/09,HOUSTON Dan (PA),51.0
 2023 Brownlow Medal Top 5 25/09,JACKSON Luke (FRE),51.0
-2023 Brownlow Medal Top 5 25/09,STEELE Jack (STK),51.0
-2023 Brownlow Medal Top 5 25/09,GAWN Max (MEL),51.0
-2023 Brownlow Medal Top 5 25/09,PARKER Luke (SYD),51.0
-2023 Brownlow Medal Top 5 25/09,MCCLUGGAGE Hugh (BRI),51.0
+2023 Brownlow Medal Top 5 25/09,HORNE-FRANCIS Jason (PA),51.0
 2023 Brownlow Medal Top 5 25/09,MITCHELL Tom (COL),51.0
 2023 Brownlow Medal Top 5 25/09,STEWART Tom (GEE),51.0
 2023 Brownlow Medal Top 5 25/09,ASHCROFT Will (BRI),51.0
@@ -260,63 +260,63 @@ Brownlow Medal Top 20,GREEN Tom (GWS),1.7
 Brownlow Medal Top 20,CONIGLIO Stephen (GWS),2.0
 Brownlow Medal Top 20,DE GOEY Jordan (COL),2.25
 Brownlow Medal Top 20,LIBERATORE Tom (WB),2.25
-Brownlow Medal Top 20,PARISH Darcy (ESS),2.5
 Brownlow Medal Top 20,OLIVER Clayton (MEL),2.5
+Brownlow Medal Top 20,PARISH Darcy (ESS),2.5
 Brownlow Medal Top 20,BOLTON Shai (RIC),2.75
 Brownlow Medal Top 20,WALKER Taylor (ADE),2.75
 Brownlow Medal Top 20,DAICOS Josh (COL),2.75
-Brownlow Medal Top 20,KELLY Tim (WCE),3.0
 Brownlow Medal Top 20,RAYNER Cameron (BRI),3.0
 Brownlow Medal Top 20,SICILY James (HAW),3.0
+Brownlow Medal Top 20,KELLY Tim (WCE),3.0
 Brownlow Medal Top 20,CERRA Adam (CAR),3.25
-Brownlow Medal Top 20,PARKER Luke (SYD),3.5
 Brownlow Medal Top 20,MARTIN Dustin (RIC),3.5
+Brownlow Medal Top 20,PARKER Luke (SYD),3.5
 Brownlow Medal Top 20,DAVIES-UNIACKE Luke (NM),3.5
 Brownlow Medal Top 20,CAMERON Jeremy (GEE),4.0
 Brownlow Medal Top 20,GAWN Max (MEL),4.0
 Brownlow Medal Top 20,DANGERFIELD Patrick (GEE),4.5
-Brownlow Medal Top 20,MARTIN Nic (ESS),4.5
 Brownlow Medal Top 20,CROUCH Brad (STK),4.5
+Brownlow Medal Top 20,MARTIN Nic (ESS),4.5
 Brownlow Medal Top 20,ENGLISH Tim (WB),4.5
 Brownlow Medal Top 20,HOUSTON Dan (PA),5.0
 Brownlow Medal Top 20,PENDLEBURY Scott (COL),5.5
 Brownlow Medal Top 20,HORNE-FRANCIS Jason (PA),5.5
 Brownlow Medal Top 20,STEELE Jack (STK),5.5
-Brownlow Medal Top 20,MITCHELL Tom (COL),6.0
 Brownlow Medal Top 20,MACRAE Jackson (WB),6.0
-Brownlow Medal Top 20,STEWART Tom (GEE),6.0
 Brownlow Medal Top 20,TRELOAR Adam (WB),6.0
+Brownlow Medal Top 20,STEWART Tom (GEE),6.0
+Brownlow Medal Top 20,MITCHELL Tom (COL),6.0
 Brownlow Medal Top 20,WALSH Sam (CAR),7.0
-Brownlow Medal Top 20,JACKSON Luke (FRE),7.0
 Brownlow Medal Top 20,SMITH Bailey (WB),7.0
 Brownlow Medal Top 20,MCCLUGGAGE Hugh (BRI),7.0
+Brownlow Medal Top 20,JACKSON Luke (FRE),7.0
 Brownlow Medal Top 20,MILLS Callum (SYD),8.0
 Brownlow Medal Top 20,WINES Ollie (PA),9.0
 Brownlow Medal Top 20,DOCHERTY Sam (CAR),11.0
 Brownlow Medal Top 20,BAILEY Zac (BRI),11.0
-Brownlow Medal Top 20,ASHCROFT Will (BRI),13.0
 Brownlow Medal Top 20,PAPLEY Tom (SYD),13.0
+Brownlow Medal Top 20,ASHCROFT Will (BRI),13.0
 Brownlow Medal Top 20,SHEEZEL Harry (NM),15.0
+Brownlow Medal Top 20,WHITFIELD Lachie (GWS),15.0
 Brownlow Medal Top 20,WOOD Mason (STK),15.0
-Brownlow Medal Top 20,SMITH Isaac (GEE),15.0
+Brownlow Medal Top 20,MAY Steven (MEL),15.0
+Brownlow Medal Top 20,REDMAN Mason (ESS),15.0
+Brownlow Medal Top 20,HAWKINS Tom (GEE),15.0
+Brownlow Medal Top 20,CRISP Jack (COL),15.0
+Brownlow Medal Top 20,RIOLI Daniel (RIC),15.0
 Brownlow Medal Top 20,WEITERING Jacob (CAR),15.0
 Brownlow Medal Top 20,AMON Karl (HAW),15.0
-Brownlow Medal Top 20,REDMAN Mason (ESS),15.0
-Brownlow Medal Top 20,MAY Steven (MEL),15.0
-Brownlow Medal Top 20,CRISP Jack (COL),15.0
-Brownlow Medal Top 20,WHITFIELD Lachie (GWS),15.0
-Brownlow Medal Top 20,HAWKINS Tom (GEE),15.0
-Brownlow Medal Top 20,RIOLI Daniel (RIC),15.0
-Brownlow Medal Top 20,THOMAS Tarryn (NM),17.0
-Brownlow Medal Top 20,SHORT Jayden (RIC),17.0
+Brownlow Medal Top 20,SMITH Isaac (GEE),15.0
 Brownlow Medal Top 20,KEAYS Ben (ADE),17.0
 Brownlow Medal Top 20,HEWETT George (CAR),17.0
-Brownlow Medal Top 20,LLOYD Jake (SYD),17.0
-Brownlow Medal Top 20,POWELL-PEPPER Sam (PA),17.0
+Brownlow Medal Top 20,THOMAS Tarryn (NM),17.0
 Brownlow Medal Top 20,ELLIOTT Jamie (COL),17.0
+Brownlow Medal Top 20,SHORT Jayden (RIC),17.0
+Brownlow Medal Top 20,POWELL-PEPPER Sam (PA),17.0
+Brownlow Medal Top 20,LLOYD Jake (SYD),17.0
 Brownlow Medal Quinella 25/09,Bontempelli/N.Daicos,2.5
-Brownlow Medal Quinella 25/09,Bontempelli/Butters,5.5
 Brownlow Medal Quinella 25/09,Butters/N.Daicos,5.5
+Brownlow Medal Quinella 25/09,Bontempelli/Butters,5.5
 Brownlow Medal Quinella 25/09,N.Daicos/Petracca,6.0
 Brownlow Medal Quinella 25/09,Bontempelli/Petracca,6.5
 Brownlow Medal Quinella 25/09,Bontempelli/Neale,11.0
@@ -332,265 +332,265 @@ Brownlow Medal Quinella 25/09,Butters/Serong,67.0
 Brownlow Medal Quinella 25/09,Bontempelli/Rozee,81.0
 Brownlow Medal Quinella 25/09,Petracca/Serong,81.0
 Brownlow Medal Quinella 25/09,Bontempelli/Dawson,101.0
-Brownlow Medal Quinella 25/09,Dawson/N.Daicos,101.0
-Brownlow Medal Quinella 25/09,Bontempelli/Gulden,101.0
 Brownlow Medal Quinella 25/09,Petracca/Taranto,101.0
-Brownlow Medal Quinella 25/09,Bontempelli/Merrett,101.0
 Brownlow Medal Quinella 25/09,Butters/Taranto,101.0
-Brownlow Medal Quinella 25/09,Gulden/N.Daicos,101.0
 Brownlow Medal Quinella 25/09,Merrett/N.Daicos,101.0
+Brownlow Medal Quinella 25/09,Bontempelli/Merrett,101.0
+Brownlow Medal Quinella 25/09,Dawson/N.Daicos,101.0
+Brownlow Medal Quinella 25/09,Gulden/N.Daicos,101.0
+Brownlow Medal Quinella 25/09,Bontempelli/Gulden,101.0
 Brownlow Medal Quinella 25/09,N.Daicos/Rozee,126.0
 Brownlow Medal Quinella 25/09,Bontempelli/Sinclair,151.0
 Brownlow Medal Quinella 25/09,Neale/Serong,151.0
-Brownlow Medal Quinella 25/09,Dawson/Petracca,201.0
-Brownlow Medal Quinella 25/09,Bontempelli/Greene,201.0
 Brownlow Medal Quinella 25/09,Butters/Gulden,201.0
+Brownlow Medal Quinella 25/09,Dawson/Petracca,201.0
+Brownlow Medal Quinella 25/09,Butters/Dawson,201.0
 Brownlow Medal Quinella 25/09,Petracca/Rozee,201.0
 Brownlow Medal Quinella 25/09,Butters/Merrett,201.0
-Brownlow Medal Quinella 25/09,Butters/Dawson,201.0
+Brownlow Medal Quinella 25/09,Bontempelli/Greene,201.0
 Brownlow Medal Quinella 25/09,Butters/Rozee,251.0
-Brownlow Medal Quinella 25/09,Gulden/Petracca,251.0
 Brownlow Medal Quinella 25/09,Neale/Taranto,251.0
 Brownlow Medal Quinella 25/09,Merrett/Petracca,251.0
-Brownlow Medal Quinella 25/09,Gulden/Neale,301.0
+Brownlow Medal Quinella 25/09,Gulden/Petracca,251.0
 Brownlow Medal Quinella 25/09,N.Daicos/Sinclair,301.0
-Brownlow Medal Quinella 25/09,Anderson/Bontempelli,301.0
 Brownlow Medal Quinella 25/09,Petracca/Sinclair,301.0
-Brownlow Medal Quinella 25/09,Anderson/N.Daicos,351.0
+Brownlow Medal Quinella 25/09,Anderson/Bontempelli,301.0
+Brownlow Medal Quinella 25/09,Gulden/Neale,301.0
 Brownlow Medal Quinella 25/09,Greene/N.Daicos,351.0
-Brownlow Medal Quinella 25/09,Merrett/Neale,401.0
+Brownlow Medal Quinella 25/09,Anderson/N.Daicos,351.0
 Brownlow Medal Quinella 25/09,Butters/Greene,401.0
-Brownlow Medal Quinella 25/09,Dawson/Neale,451.0
+Brownlow Medal Quinella 25/09,Merrett/Neale,401.0
 Brownlow Medal Quinella 25/09,Butters/Sinclair,451.0
-Brownlow Medal Quinella 25/09,English/N.Daicos,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Cripps,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Crisp,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Rachele,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Guthrie,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Steele,501.0
-Brownlow Medal Quinella 25/09,N.Daicos/Wines,501.0
-Brownlow Medal Quinella 25/09,H-Francis/N.Daicos,501.0
+Brownlow Medal Quinella 25/09,Dawson/Neale,451.0
+Brownlow Medal Quinella 25/09,Bontempelli/Macrae,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Rowell,501.0
+Brownlow Medal Quinella 25/09,Aliir/Bontempelli,501.0
+Brownlow Medal Quinella 25/09,Himmelberg/N.Daicos,501.0
 Brownlow Medal Quinella 25/09,Neale/Rozee,501.0
-Brownlow Medal Quinella 25/09,D.Martin/N.Daicos,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Wines,501.0
+Brownlow Medal Quinella 25/09,N.Daicos/Wines,501.0
+Brownlow Medal Quinella 25/09,Anderson/Petracca,501.0
 Brownlow Medal Quinella 25/09,Bontempelli/Hopper,501.0
 Brownlow Medal Quinella 25/09,Bontempelli/Himmelberg,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Macrae,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Treloar,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Martin,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/T.Kelly,501.0
+Brownlow Medal Quinella 25/09,H-Francis/N.Daicos,501.0
+Brownlow Medal Quinella 25/09,Butters/Whitfield,501.0
 Brownlow Medal Quinella 25/09,Greene/Petracca,501.0
 Brownlow Medal Quinella 25/09,Greene/Neale,501.0
-Brownlow Medal Quinella 25/09,Neale/Sinclair,501.0
-Brownlow Medal Quinella 25/09,Anderson/Petracca,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/Rowell,501.0
-Brownlow Medal Quinella 25/09,Himmelberg/N.Daicos,501.0
-Brownlow Medal Quinella 25/09,Aliir/Bontempelli,501.0
-Brownlow Medal Quinella 25/09,Bontempelli/T.Kelly,501.0
-Brownlow Medal Quinella 25/09,Butters/Whitfield,501.0
+Brownlow Medal Quinella 25/09,D.Martin/N.Daicos,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Wines,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Treloar,501.0
 Brownlow Medal Quinella 25/09,Bontempelli/McCluggage,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Martin,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Guthrie,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Steele,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Rachele,501.0
+Brownlow Medal Quinella 25/09,Neale/Sinclair,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Cripps,501.0
+Brownlow Medal Quinella 25/09,English/N.Daicos,501.0
+Brownlow Medal Quinella 25/09,Bontempelli/Crisp,501.0
 Brownlow Medal Exacta 25/09,N.Daicos/Bontempelli,4.5
 Brownlow Medal Exacta 25/09,Bontempelli/N.Daicos,5.0
 Brownlow Medal Exacta 25/09,Bontempelli/Butters,10.0
-Brownlow Medal Exacta 25/09,N.Daicos/Butters,11.0
 Brownlow Medal Exacta 25/09,Bontempelli/Petracca,11.0
-Brownlow Medal Exacta 25/09,Butters/Bontempelli,12.0
+Brownlow Medal Exacta 25/09,N.Daicos/Butters,11.0
 Brownlow Medal Exacta 25/09,N.Daicos/Petracca,12.0
+Brownlow Medal Exacta 25/09,Butters/Bontempelli,12.0
 Brownlow Medal Exacta 25/09,Butters/N.Daicos,13.0
-Brownlow Medal Exacta 25/09,Petracca/N.Daicos,14.0
 Brownlow Medal Exacta 25/09,Petracca/Bontempelli,14.0
+Brownlow Medal Exacta 25/09,Petracca/N.Daicos,14.0
 Brownlow Medal Exacta 25/09,N.Daicos/Neale,19.0
 Brownlow Medal Exacta 25/09,Bontempelli/Neale,21.0
-Brownlow Medal Exacta 25/09,Neale/N.Daicos,23.0
 Brownlow Medal Exacta 25/09,Petracca/Butters,23.0
-Brownlow Medal Exacta 25/09,Butters/Petracca,26.0
+Brownlow Medal Exacta 25/09,Neale/N.Daicos,23.0
 Brownlow Medal Exacta 25/09,Neale/Bontempelli,26.0
+Brownlow Medal Exacta 25/09,Butters/Petracca,26.0
+Brownlow Medal Exacta 25/09,Neale/Butters,41.0
 Brownlow Medal Exacta 25/09,Butters/Neale,41.0
 Brownlow Medal Exacta 25/09,Petracca/Neale,41.0
-Brownlow Medal Exacta 25/09,Neale/Butters,41.0
 Brownlow Medal Exacta 25/09,Neale/Petracca,51.0
 Brownlow Medal Exacta 25/09,Bontempelli/Serong,61.0
 Brownlow Medal Exacta 25/09,N.Daicos/Serong,67.0
 Brownlow Medal Exacta 25/09,Bontempelli/Taranto,81.0
 Brownlow Medal Exacta 25/09,N.Daicos/Taranto,81.0
-Brownlow Medal Exacta 25/09,Serong/N.Daicos,101.0
 Brownlow Medal Exacta 25/09,Serong/Bontempelli,101.0
-Brownlow Medal Exacta 25/09,Butters/Serong,126.0
+Brownlow Medal Exacta 25/09,Serong/N.Daicos,101.0
 Brownlow Medal Exacta 25/09,Taranto/N.Daicos,126.0
-Brownlow Medal Exacta 25/09,Bontempelli/Rozee,151.0
+Brownlow Medal Exacta 25/09,Butters/Serong,126.0
 Brownlow Medal Exacta 25/09,Taranto/Bontempelli,151.0
+Brownlow Medal Exacta 25/09,Bontempelli/Rozee,151.0
 Brownlow Medal Exacta 25/09,Merrett/Bontempelli,151.0
 Brownlow Medal Exacta 25/09,Petracca/Taranto,151.0
 Brownlow Medal Exacta 25/09,Petracca/Serong,151.0
 Brownlow Medal Exacta 25/09,Bontempelli/Dawson,151.0
 Brownlow Medal Exacta 25/09,Serong/Butters,151.0
-Brownlow Medal Exacta 25/09,N.Daicos/Gulden,201.0
+Brownlow Medal Exacta 25/09,Taranto/Butters,201.0
 Brownlow Medal Exacta 25/09,Serong/Petracca,201.0
+Brownlow Medal Exacta 25/09,Bontempelli/Gulden,201.0
 Brownlow Medal Exacta 25/09,Gulden/Bontempelli,201.0
 Brownlow Medal Exacta 25/09,N.Daicos/Rozee,201.0
 Brownlow Medal Exacta 25/09,Rozee/Bontempelli,201.0
-Brownlow Medal Exacta 25/09,Merrett/N.Daicos,201.0
 Brownlow Medal Exacta 25/09,N.Daicos/Dawson,201.0
+Brownlow Medal Exacta 25/09,Merrett/N.Daicos,201.0
+Brownlow Medal Exacta 25/09,N.Daicos/Gulden,201.0
 Brownlow Medal Exacta 25/09,N.Daicos/Merrett,201.0
-Brownlow Medal Exacta 25/09,Taranto/Butters,201.0
-Brownlow Medal Exacta 25/09,Bontempelli/Gulden,201.0
-Brownlow Medal Exacta 25/09,Neale/Serong,251.0
 Brownlow Medal Exacta 25/09,Gulden/N.Daicos,251.0
-Brownlow Medal Exacta 25/09,Bontempelli/Merrett,251.0
-Brownlow Medal Exacta 25/09,Bontempelli/Sinclair,251.0
 Brownlow Medal Exacta 25/09,Butters/Taranto,251.0
+Brownlow Medal Exacta 25/09,Neale/Serong,251.0
+Brownlow Medal Exacta 25/09,Bontempelli/Sinclair,251.0
+Brownlow Medal Exacta 25/09,Bontempelli/Merrett,251.0
 Brownlow Medal Exacta 25/09,Bontempelli/Greene,301.0
-Brownlow Medal Exacta 25/09,Rozee/N.Daicos,301.0
 Brownlow Medal Exacta 25/09,Gulden/Butters,301.0
+Brownlow Medal Exacta 25/09,Dawson/N.Daicos,301.0
 Brownlow Medal Exacta 25/09,Taranto/Petracca,301.0
 Brownlow Medal Exacta 25/09,Butters/Dawson,301.0
-Brownlow Medal Exacta 25/09,Dawson/N.Daicos,301.0
-Brownlow Medal Exacta 25/09,Dawson/Petracca,351.0
-Brownlow Medal Exacta 25/09,Rozee/Petracca,351.0
-Brownlow Medal Exacta 25/09,Butters/Rozee,351.0
+Brownlow Medal Exacta 25/09,Rozee/N.Daicos,301.0
 Brownlow Medal Exacta 25/09,Dawson/Bontempelli,351.0
-Brownlow Medal Exacta 25/09,Petracca/Merrett,401.0
+Brownlow Medal Exacta 25/09,Butters/Rozee,351.0
+Brownlow Medal Exacta 25/09,Rozee/Petracca,351.0
+Brownlow Medal Exacta 25/09,Dawson/Petracca,351.0
 Brownlow Medal Exacta 25/09,Gulden/Petracca,401.0
+Brownlow Medal Exacta 25/09,Petracca/Merrett,401.0
 Brownlow Medal Exacta 25/09,Merrett/Butters,451.0
 Brownlow Medal Exacta 25/09,Neale/Taranto,451.0
-Brownlow Medal Exacta 25/09,Dawson/Butters,501.0
-Brownlow Medal Exacta 25/09,Greene/N.Daicos,501.0
-Brownlow Medal Exacta 25/09,Anderson/Bontempelli,501.0
-Brownlow Medal Exacta 25/09,Petracca/Dawson,501.0
-Brownlow Medal Exacta 25/09,Serong/Neale,501.0
+Brownlow Medal Exacta 25/09,Bontempelli/Crisp,501.0
 Brownlow Medal Exacta 25/09,Petracca/Sinclair,501.0
 Brownlow Medal Exacta 25/09,Greene/Butters,501.0
-Brownlow Medal Exacta 25/09,N.Daicos/Sinclair,501.0
-Brownlow Medal Exacta 25/09,Bontempelli/Crisp,501.0
-Brownlow Medal Exacta 25/09,Taranto/Neale,501.0
-Brownlow Medal Exacta 25/09,Bontempelli/Steele,501.0
-Brownlow Medal Exacta 25/09,Neale/Dawson,501.0
-Brownlow Medal Exacta 25/09,Sinclair/Bontempelli,501.0
-Brownlow Medal Exacta 25/09,Butters/Gulden,501.0
-Brownlow Medal Exacta 25/09,Greene/Bontempelli,501.0
-Brownlow Medal Exacta 25/09,Anderson/N.Daicos,501.0
+Brownlow Medal Exacta 25/09,Petracca/Dawson,501.0
 Brownlow Medal Exacta 25/09,Butters/Merrett,501.0
-Brownlow Medal Exacta 25/09,Merrett/Petracca,501.0
+Brownlow Medal Exacta 25/09,Bontempelli/Steele,501.0
+Brownlow Medal Exacta 25/09,Anderson/N.Daicos,501.0
 Brownlow Medal Exacta 25/09,Neale/Gulden,501.0
+Brownlow Medal Exacta 25/09,Merrett/Petracca,501.0
 Brownlow Medal Exacta 25/09,Petracca/Rozee,501.0
+Brownlow Medal Exacta 25/09,Anderson/Bontempelli,501.0
+Brownlow Medal Exacta 25/09,Taranto/Neale,501.0
+Brownlow Medal Exacta 25/09,Greene/Bontempelli,501.0
+Brownlow Medal Exacta 25/09,Sinclair/Bontempelli,501.0
+Brownlow Medal Exacta 25/09,Serong/Neale,501.0
+Brownlow Medal Exacta 25/09,N.Daicos/Sinclair,501.0
+Brownlow Medal Exacta 25/09,Butters/Gulden,501.0
+Brownlow Medal Exacta 25/09,Neale/Dawson,501.0
+Brownlow Medal Exacta 25/09,Dawson/Butters,501.0
+Brownlow Medal Exacta 25/09,Greene/N.Daicos,501.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Bontempeli/Petracca,16.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Butters,16.0
 Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Butters,18.0
 Brownlow Medal Trifecta 25/09,Bontempeli/N.Daicos/Petracca,18.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Petracca/Bontempeli,18.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Butters/N.Daicos,21.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Bontempelli,21.0
 Brownlow Medal Trifecta 25/09,Butters/Bontempelli/N.Daicos,21.0
-Brownlow Medal Trifecta 25/09,Butters/N.Daicos/Bontempelli,26.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Bontempelli,21.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Butters/N.Daicos,21.0
 Brownlow Medal Trifecta 25/09,Bontempeli/Petracca/N.Daicos,26.0
 Brownlow Medal Trifecta 25/09,Petracca/Bontempeli/N.Daicos,26.0
 Brownlow Medal Trifecta 25/09,Petracca/N.Daicos/Bontempeli,26.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Neale,26.0
+Brownlow Medal Trifecta 25/09,Butters/N.Daicos/Bontempelli,26.0
 Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Petracca,31.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Butters,34.0
 Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Neale,34.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Petracca,34.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Butters,34.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Neale/N.Daicos,41.0
 Brownlow Medal Trifecta 25/09,Neale/Bontempelli/N.Daicos,41.0
 Brownlow Medal Trifecta 25/09,Petracca/N.Daicos/Butters,41.0
+Brownlow Medal Trifecta 25/09,Petracca/Butters/Bontempelli,41.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Petracca/Butters,41.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Petracca,41.0
-Brownlow Medal Trifecta 25/09,Petracca/Butters/Bontempelli,41.0
+Brownlow Medal Trifecta 25/09,Petracca/Butters/N.Daicos,51.0
 Brownlow Medal Trifecta 25/09,Neale/N.Daicos/Bontempelli,51.0
 Brownlow Medal Trifecta 25/09,Butters/Petracca/Bontempelli,51.0
-Brownlow Medal Trifecta 25/09,Petracca/Butters/N.Daicos,51.0
 Brownlow Medal Trifecta 25/09,Petracca/Bontempelli/Butters,51.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Petracca/Neale,51.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Neale/Bontempelli,51.0
 Brownlow Medal Trifecta 25/09,Butters/N.Daicos/Petracca,51.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Neale,51.0
 Brownlow Medal Trifecta 25/09,Butters/Petracca/N.Daicos,51.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Neale/Bontempelli,51.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Petracca/Neale,51.0
 Brownlow Medal Trifecta 25/09,Neale/N.Daicos/Butters,67.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Neale,67.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Neale/Petracca,81.0
-Brownlow Medal Trifecta 25/09,Neale/N.Daicos/Petracca,81.0
-Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Neale,81.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Neale/Butters,81.0
-Brownlow Medal Trifecta 25/09,Neale/Butters/N.Daicos,81.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Neale/Butters,81.0
-Brownlow Medal Trifecta 25/09,Butters/Neale/Bontempelli,81.0
-Brownlow Medal Trifecta 25/09,Petracca/N.Daicos/Neale,81.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Neale,81.0
 Brownlow Medal Trifecta 25/09,Butters/N.Daicos/Neale,81.0
+Brownlow Medal Trifecta 25/09,Petracca/N.Daicos/Neale,81.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Neale/Petracca,81.0
+Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Neale,81.0
+Brownlow Medal Trifecta 25/09,Neale/Butters/N.Daicos,81.0
+Brownlow Medal Trifecta 25/09,Butters/Neale/Bontempelli,81.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Neale/Butters,81.0
+Brownlow Medal Trifecta 25/09,Neale/N.Daicos/Petracca,81.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Neale,81.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Neale/Butters,81.0
 Brownlow Medal Trifecta 25/09,Petracca/Neale/Bontempelli,101.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Serong,101.0
-Brownlow Medal Trifecta 25/09,Petracca/Neale/N.Daicos,101.0
-Brownlow Medal Trifecta 25/09,Petracca/Bontempelli/Neale,101.0
-Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Serong,101.0
 Brownlow Medal Trifecta 25/09,Butters/Neale/N.Daicos,101.0
 Brownlow Medal Trifecta 25/09,Neale/Bontempelli/Butters,101.0
+Brownlow Medal Trifecta 25/09,Petracca/Neale/N.Daicos,101.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Neale/Petracca,101.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Serong/N.Daicos,126.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Serong/Bontempelli,126.0
-Brownlow Medal Trifecta 25/09,Neale/Bontempelli/Petracca,126.0
+Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Serong,101.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Serong,101.0
+Brownlow Medal Trifecta 25/09,Petracca/Bontempelli/Neale,101.0
 Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Taranto,126.0
 Brownlow Medal Trifecta 25/09,Neale/Butters/Bontempelli,126.0
-Brownlow Medal Trifecta 25/09,Neale/Petracca/Bontempelli,126.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Taranto/N.Daicos,126.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Taranto,151.0
+Brownlow Medal Trifecta 25/09,Neale/Petracca/Bontempelli,126.0
+Brownlow Medal Trifecta 25/09,Neale/Bontempelli/Petracca,126.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Serong/Bontempelli,126.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Serong/N.Daicos,126.0
 Brownlow Medal Trifecta 25/09,Neale/Petracca/Butters,151.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Taranto,151.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Serong/Petracca,201.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Serong,201.0
+Brownlow Medal Trifecta 25/09,Serong/Bontempelli/N.Daicos,201.0
+Brownlow Medal Trifecta 25/09,Serong/N.Daicos/Bontempelli,201.0
 Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Gulden,201.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Taranto/Bontempelli,201.0
-Brownlow Medal Trifecta 25/09,Serong/Bontempelli/N.Daicos,201.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Serong,201.0
+Brownlow Medal Trifecta 25/09,Butters/Neale/Petracca,201.0
+Brownlow Medal Trifecta 25/09,Neale/Petracca/N.Daicos,201.0
+Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Merrett,201.0
+Brownlow Medal Trifecta 25/09,Butters/Petracca/Neale,201.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Gulden,201.0
 Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Serong,201.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Serong/Petracca,201.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Serong,201.0
-Brownlow Medal Trifecta 25/09,Serong/N.Daicos/Bontempelli,201.0
-Brownlow Medal Trifecta 25/09,Neale/Petracca/N.Daicos,201.0
-Brownlow Medal Trifecta 25/09,Butters/Petracca/Neale,201.0
-Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Merrett,201.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Serong,201.0
-Brownlow Medal Trifecta 25/09,Butters/Neale/Petracca,201.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Serong,301.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Rozee,301.0
+Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Rozee,301.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Petracca/Taranto,301.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Dawson,301.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Serong/Butters,301.0
 Brownlow Medal Trifecta 25/09,Petracca/Bontempelli/Serong,301.0
 Brownlow Medal Trifecta 25/09,Petracca/Butters/Neale,301.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Petracca/Taranto,301.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Dawson,301.0
-Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Rozee,301.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Serong,301.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Rozee,301.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Neale/Taranto,351.0
 Brownlow Medal Trifecta 25/09,Butters/Serong/Bontempelli,351.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Serong/Butters,351.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Neale/Taranto,351.0
 Brownlow Medal Trifecta 25/09,Petracca/Neale/Butters,351.0
 Brownlow Medal Trifecta 25/09,Taranto/N.Daicos/Bontempelli,351.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Taranto/Butters,351.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Taranto,351.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Serong/Butters,351.0
 Brownlow Medal Trifecta 25/09,Butters/N.Daicos/Serong,351.0
-Brownlow Medal Trifecta 25/09,Petracca/N.Daicos/Serong,401.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Taranto,351.0
 Brownlow Medal Trifecta 25/09,Butters/Serong/N.Daicos,401.0
+Brownlow Medal Trifecta 25/09,Petracca/N.Daicos/Serong,401.0
 Brownlow Medal Trifecta 25/09,Neale/Butters/Petracca,401.0
+Brownlow Medal Trifecta 25/09,Taranto/Bontempelli/N.Daicos,401.0
 Brownlow Medal Trifecta 25/09,Serong/N.Daicos/Butters,401.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Bontempelli/Merrett,401.0
-Brownlow Medal Trifecta 25/09,Taranto/Bontempelli/N.Daicos,401.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Serong/Petracca,451.0
 Brownlow Medal Trifecta 25/09,Bontempelli/N.Daicos/Greene,451.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Serong/Petracca,451.0
+Brownlow Medal Trifecta 25/09,Serong/Butters/Bontempelli,451.0
 Brownlow Medal Trifecta 25/09,Butters/N.Daicos/Taranto,451.0
+Brownlow Medal Trifecta 25/09,Gulden/N.Daicos/Bontempelli,451.0
 Brownlow Medal Trifecta 25/09,Serong/Butters/N.Daicos,451.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Taranto/Butters,451.0
-Brownlow Medal Trifecta 25/09,Gulden/N.Daicos/Bontempelli,451.0
-Brownlow Medal Trifecta 25/09,Serong/Butters/Bontempelli,451.0
 Brownlow Medal Trifecta 25/09,Bontempeli/N.Daicos/Sinclair,451.0
 Brownlow Medal Trifecta 25/09,Serong/Bontempelli/Butters,451.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Rozee/N.Daicos,451.0
-Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Dawson,501.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Gulden/N.Daicos,501.0
+Brownlow Medal Trifecta 25/09,Petracca/Serong/N.Daicos,501.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Taranto,501.0
+Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Taranto,501.0
 Brownlow Medal Trifecta 25/09,Butters/Taranto/N.Daicos,501.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Taranto/Petracca,501.0
-Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Taranto,501.0
+Brownlow Medal Trifecta 25/09,Bontempelli/Gulden/N.Daicos,501.0
+Brownlow Medal Trifecta 25/09,Rozee/Bontempelli/N.Daicos,501.0
 Brownlow Medal Trifecta 25/09,Taranto/Butters/N.Daicos,501.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Butters/Gulden,501.0
-Brownlow Medal Trifecta 25/09,Petracca/Serong/N.Daicos,501.0
-Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Taranto,501.0
-Brownlow Medal Trifecta 25/09,Serong/N.Daicos/Petracca,501.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Taranto/Petracca,501.0
 Brownlow Medal Trifecta 25/09,Taranto/Bontempelli/Butters,501.0
-Brownlow Medal Trifecta 25/09,Bontempelli/Petracca/Taranto,501.0
-Brownlow Medal Trifecta 25/09,Rozee/Bontempelli/N.Daicos,501.0
+Brownlow Medal Trifecta 25/09,Serong/N.Daicos/Petracca,501.0
+Brownlow Medal Trifecta 25/09,Butters/Bontempelli/Dawson,501.0
+Brownlow Medal Trifecta 25/09,N.Daicos/Butters/Taranto,501.0
 Brownlow Medal Trifecta 25/09,Petracca/Bontempelli/Taranto,501.0
 Brownlow Medal Trifecta 25/09,N.Daicos/Bontempeli/Sinclair,501.0
 Brownlow Medal Trifecta 25/09,Bontempelli/Serong/Neale,501.0
@@ -599,80 +599,80 @@ Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/N.Daicos,3.5
 Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Neale,7.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Petracca,9.0
 Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Petracca,9.0
-Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Neale,18.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Neale,18.0
+Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Neale,18.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Neale/Petracca,21.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Serong,26.0
 Brownlow Boxed Trifecta 25/09,N.Daicos/Neale/Petracca,26.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Serong,26.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Taranto,34.0
 Brownlow Boxed Trifecta 25/09,Butters/Neale/Petracca,34.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Serong,51.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Petracca/Serong,51.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Gulden/N.Daicos,51.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Serong,51.0
 Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Serong,51.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Rozee,67.0
 Brownlow Boxed Trifecta 25/09,N.Daicos/Petracca/Serong,81.0
 Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Taranto,81.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Taranto,81.0
-Brownlow Boxed Trifecta 25/09,N.Daicos/Petracca/Taranto,101.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Merrett/N.Daicos,101.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Petracca/Taranto,126.0
+Brownlow Boxed Trifecta 25/09,N.Daicos/Petracca/Taranto,101.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Dawson/N.Daicos,126.0
 Brownlow Boxed Trifecta 25/09,Bontempeli/N.Daicos/Sinclair,126.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Petracca/Taranto,126.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Neale/Taranto,126.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Neale/Serong,151.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Merrett,151.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Merrett/Petracca,151.0
-Brownlow Boxed Trifecta 25/09,Butters/Merrett/N.Daicos,151.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Gulden,151.0
+Brownlow Boxed Trifecta 25/09,Butters/Dawson/N.Daicos,151.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Greene/N.Daicos,151.0
 Brownlow Boxed Trifecta 25/09,Butters/Petracca/Serong,151.0
-Brownlow Boxed Trifecta 25/09,N.Daicos/Neale/Serong,151.0
-Brownlow Boxed Trifecta 25/09,Butters/Dawson/N.Daicos,151.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Gulden,151.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Merrett/Petracca,151.0
+Brownlow Boxed Trifecta 25/09,Butters/Merrett/N.Daicos,151.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Neale/Serong,151.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Merrett,151.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Petracca/Rozee,151.0
+Brownlow Boxed Trifecta 25/09,N.Daicos/Neale/Serong,151.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Dawson/Petracca,201.0
 Brownlow Boxed Trifecta 25/09,N.Daicos/Neale/Taranto,201.0
+Brownlow Boxed Trifecta 25/09,Dawson/N.Daicos/Petracca,251.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Dawson,251.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Rozee,251.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Gulden/Petracca,251.0
-Brownlow Boxed Trifecta 25/09,Dawson/N.Daicos/Petracca,251.0
+Brownlow Boxed Trifecta 25/09,Butters/Neale/Serong,301.0
 Brownlow Boxed Trifecta 25/09,Butters/Petracca/Taranto,301.0
 Brownlow Boxed Trifecta 25/09,Butters/Gulden/N.Daicos,301.0
-Brownlow Boxed Trifecta 25/09,Butters/Neale/Serong,301.0
-Brownlow Boxed Trifecta 25/09,Bontempeli/Petracca/Sinclair,301.0
 Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Rozee,301.0
 Brownlow Boxed Trifecta 25/09,Merrett/N.Daicos/Petracca,301.0
-Brownlow Boxed Trifecta 25/09,Gulden/N.Daicos/Neale,351.0
-Brownlow Boxed Trifecta 25/09,Dawson/N.Daicos/Neale,351.0
+Brownlow Boxed Trifecta 25/09,Bontempeli/Petracca/Sinclair,301.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Greene/Petracca,351.0
-Brownlow Boxed Trifecta 25/09,N.Daicos/Petracca/Rozee,351.0
-Brownlow Boxed Trifecta 25/09,Gulden/N.Daicos/Petracca,351.0
+Brownlow Boxed Trifecta 25/09,Dawson/N.Daicos/Neale,351.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Neale/Rozee,351.0
 Brownlow Boxed Trifecta 25/09,Butters/N.Daicos/Sinclair,351.0
+Brownlow Boxed Trifecta 25/09,Gulden/N.Daicos/Petracca,351.0
+Brownlow Boxed Trifecta 25/09,Gulden/N.Daicos/Neale,351.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Sinclair,351.0
+Brownlow Boxed Trifecta 25/09,N.Daicos/Petracca/Rozee,351.0
 Brownlow Boxed Trifecta 25/09,Butters/Petracca/Rozee,351.0
 Brownlow Boxed Trifecta 25/09,Merrett/N.Daicos/Neale,351.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Neale/Rozee,351.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Sinclair,351.0
-Brownlow Boxed Trifecta 25/09,Butters/Dawson/Petracca,401.0
 Brownlow Boxed Trifecta 25/09,Neale/Petracca/Taranto,401.0
-Brownlow Boxed Trifecta 25/09,Butters/Merrett/Petracca,401.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Butters/Greene,401.0
 Brownlow Boxed Trifecta 25/09,Bontmpli/McCluggage/N.Daicos,401.0
-Brownlow Boxed Trifecta 25/09,Andersn/Bontempelli/N.Daicos,451.0
+Brownlow Boxed Trifecta 25/09,Butters/Dawson/Petracca,401.0
+Brownlow Boxed Trifecta 25/09,Butters/Merrett/Petracca,401.0
 Brownlow Boxed Trifecta 25/09,Butters/Gulden/Petracca,451.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Merrett/Neale,451.0
+Brownlow Boxed Trifecta 25/09,Andersn/Bontempelli/N.Daicos,451.0
 Brownlow Boxed Trifecta 25/09,N.Daicos/Petracca/Sinclair,451.0
 Brownlow Boxed Trifecta 25/09,Neale/Petracca/Serong,451.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Curnow/N.Daicos,501.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Cameron/N.Daicos,501.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Parish,501.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Draper/N.Daicos,501.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Cripps/N.Daicos,501.0
 Brownlow Boxed Trifecta 25/09,Andersn/Bontempelli/Petracca,501.0
-Brownlow Boxed Trifecta 25/09,Anderson/Butters/N.Daicos,501.0
-Brownlow Boxed Trifecta 25/09,Butters/Neale/Rozee,501.0
-Brownlow Boxed Trifecta 25/09,Bontempelli/Dawson/Neale,501.0
-Brownlow Boxed Trifecta 25/09,Butters/Gulden/Neale,501.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Dunkley/N.Daicos,501.0
+Brownlow Boxed Trifecta 25/09,Butters/Gulden/Neale,501.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Dawson/Neale,501.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Draper/N.Daicos,501.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Parish,501.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Curnow/N.Daicos,501.0
+Brownlow Boxed Trifecta 25/09,Bontempelli/Cripps/N.Daicos,501.0
+Brownlow Boxed Trifecta 25/09,Butters/Neale/Rozee,501.0
+Brownlow Boxed Trifecta 25/09,Anderson/Butters/N.Daicos,501.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Gulden/Neale,501.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Gaff/N.Daicos,501.0
 Brownlow Boxed Trifecta 25/09,N.Daicos/Neale/Sinclair,501.0
@@ -682,19 +682,19 @@ Brownlow Boxed Trifecta 25/09,Bontempelli/N.Daicos/Treloar,501.0
 Brownlow Boxed Trifecta 25/09,Bontempeli/Mitchell/N.Daicos,501.0
 Brownlow Boxed Trifecta 25/09,Bontempelli/Hopper/N.Daicos,501.0
 Brownlow Medal Handicap,Nick Daicos (COL) +0,12.0
-Brownlow Medal Handicap,Marcus Bontempelli (WB) +1.5,12.0
-Brownlow Medal Handicap,Christian Petracca(MEL) +3.5,11.0
+Brownlow Medal Handicap,Marcus Bontempelli (WB) +1.5,13.0
+Brownlow Medal Handicap,Christian Petracca(MEL) +3.5,8.0
 Brownlow Medal Handicap,Zak Butters (PA) +3.5,8.0
 Brownlow Medal Handicap,Lachie Neale (BRI) +6.5,5.0
-Brownlow Medal Handicap,Caleb Serong (FRE) +7.5,13.0
+Brownlow Medal Handicap,Caleb Serong (FRE) +7.5,10.0
 Brownlow Medal Handicap,Tim Taranto (RIC) +7.5,13.0
 Brownlow Medal Handicap,Connor Rozee (PA) +8.5,13.0
 Brownlow Medal Handicap,Errol Gulden (SYD) +9.5,9.0
-Brownlow Medal Handicap,Jordan Dawson (ADE) +10.5,12.0
+Brownlow Medal Handicap,Jordan Dawson (ADE) +10.5,10.0
 Brownlow Medal Handicap,Zach Merrett (ESS) +10.5,12.0
-Brownlow Medal Handicap,Noah Anderson (GC) +11.5,12.0
+Brownlow Medal Handicap,Noah Anderson (GC) +11.5,13.0
 Brownlow Medal Handicap,Toby Greene (GWS) +12.5,9.0
-Brownlow Medal Handicap,Patrick Cripps (CAR) +13.5,12.0
+Brownlow Medal Handicap,Patrick Cripps (CAR) +13.5,13.0
 Brownlow Winning Margin 25/09,Tie,5.0
 Brownlow Winning Margin 25/09,1 to 2,1.9
 Brownlow Winning Margin 25/09,3 to 4,3.75
@@ -736,14 +736,14 @@ Brownlow Leader after Round 5 25/09,Clayton Oliver (MEL),9.0
 Brownlow Leader after Round 5 25/09,Jeremy Cameron (GEE),13.0
 Brownlow Leader after Round 5 25/09,Jordan Dawson (ADE),17.0
 Brownlow Leader after Round 5 25/09,Darcy Parish (ESS),17.0
-Brownlow Leader after Round 5 25/09,Zach Merrett (ESS),51.0
 Brownlow Leader after Round 5 25/09,Caleb Serong (FRE),51.0
+Brownlow Leader after Round 5 25/09,Zach Merrett (ESS),51.0
 Brownlow Leader after Round 5 25/09,Chad Warner (SYD),81.0
 Brownlow Leader after Round 5 25/09,Christian Petracca (MEL),101.0
 Brownlow Leader after Round 5 25/09,Rory Laird (ADE),151.0
-Brownlow Leader after Round 5 25/09,Tim Taranto (RIC),501.0
-Brownlow Leader after Round 5 25/09,Luke Davies-Uniacke (NM),501.0
 Brownlow Leader after Round 5 25/09,Brad Crouch (STK),501.0
+Brownlow Leader after Round 5 25/09,Luke Davies-Uniacke (NM),501.0
+Brownlow Leader after Round 5 25/09,Tim Taranto (RIC),501.0
 Brownlow Leader after Round 10 25/09,Nick Daicos (COL),1.72
 Brownlow Leader after Round 10 25/09,Clayton Oliver (MEL),5.0
 Brownlow Leader after Round 10 25/09,Jordan Dawson (ADE),7.0
@@ -857,7 +857,7 @@ Brownlow Medal ToPollVote,James Rowbottom (SYD),1.8
 Brownlow Medal ToPollVote,Sam Switkowski (FRE),1.82
 Brownlow Medal ToPollVote,Ed Langdon (MEL),1.6
 Brownlow Medal ToPollVote,Kade Chandler (MEL),1.87
-Brownlow Medal ToPollVote,Tarryn Thomas (NM),1.87
+Brownlow Medal ToPollVote,Tarryn Thomas (NM),1.8
 Brownlow Medal ToPollVote,Toby Nankervis (RIC),1.5
 Brownlow Medal ToPollVote,Brad Close (GEE),1.95
 Brownlow Medal ToPollVote,Rory Lobb (WB),2.0
@@ -934,8 +934,8 @@ Brownlow Leader after Round 15 25/09,Lachie Neale (BRI),51.0
 Brownlow Leader after Round 15 25/09,Zach Merrett (ESS),101.0
 Brownlow Leader after Round 15 25/09,Noah Anderson (GC),151.0
 Brownlow Leader after Round 15 25/09,Caleb Serong (FRE),501.0
-Brownlow Leader after Round 15 25/09,Connor Rozee (PA),501.0
 Brownlow Leader after Round 15 25/09,Clayton Oliver (MEL),501.0
+Brownlow Leader after Round 15 25/09,Connor Rozee (PA),501.0
 Brownlow Most Votes R17-24 25/09,Errol Gulden (SYD),1.6
 Brownlow Most Votes R17-24 25/09,Marcus Bontempelli (WB),3.0
 Brownlow Most Votes R17-24 25/09,Zak Butters (PA),16.0
@@ -965,3 +965,125 @@ Brownlow Medal Tie Markets 25/09,Daicos/Petracc joint winners,16.0
 Brownlow Medal Tie Markets 25/09,Bont/Butters joint winners,16.0
 Brownlow Medal Tie Markets 25/09,Bont/Petracca joint winners,16.0
 Brownlow Medal Tie Markets 25/09,Butters/Petrac joint winners,34.0
+Most Votes Group A 25/09,Joe Daniher (BRI),2.4
+Most Votes Group A 25/09,Jack Lukosius (GC),3.2
+Most Votes Group A 25/09,Charlie Cameron (BRI),4.8
+Most Votes Group A 25/09,Hugh McCluggage (BRI),10.0
+Most Votes Group A 25/09,Will Ashcroft (BRI),11.0
+Most Votes Group A 25/09,Ben King (GC),13.0
+Most Votes Group A 25/09,Harris Andrews (BRI),51.0
+Most Votes Group A 25/09,Dayne Zorko (BRI),51.0
+Most Votes Group B 25/09,Dan Houston (PA),2.2
+Most Votes Group B 25/09,Izak Rankine (ADE),3.8
+Most Votes Group B 25/09,Jason Horne-Francis (PA),4.2
+Most Votes Group B 25/09,Jeremy Finlayson (PA),6.0
+Most Votes Group B 25/09,Matt Crouch (ADE),23.0
+Most Votes Group B 25/09,Ollie Wines (PA),29.0
+Most Votes Group B 25/09,Darcy Fogarty (ADE),51.0
+Most Votes Group B 25/09,Ben Keays (ADE),51.0
+Most Votes Group C 25/09,Tom Green (GWS),2.8
+Most Votes Group C 25/09,Rory Laird (ADE),4.4
+Most Votes Group C 25/09,Darcy Parish (ESS),5.5
+Most Votes Group C 25/09,Rowan Marshall (STK),6.5
+Most Votes Group C 25/09,Taylor Walker (ADE),7.5
+Most Votes Group C 25/09,Tom Liberatore (WB),12.0
+Most Votes Group C 25/09,Shai Bolton (RIC),17.0
+Most Votes Group C 25/09,Tim Kelly (WCE),19.0
+Most Votes Group D 25/09,Josh Daicos (COL),3.5
+Most Votes Group D 25/09,Luke Parker (SYD),4.8
+Most Votes Group D 25/09,Luke Jackson (FRE),4.8
+Most Votes Group D 25/09,Josh Dunkley (BRI),5.0
+Most Votes Group D 25/09,Max Gawn (MEL),8.0
+Most Votes Group D 25/09,Nic Martin (ESS),10.0
+Most Votes Group D 25/09,Patrick Dangerfield (GEE),15.0
+Most Votes Group D 25/09,Tim English (WB),19.0
+Player Votes H2H 1 25/09,Zach Merrett (ESS),1.87
+Player Votes H2H 1 25/09,Jordan Dawson (ADE),1.87
+Player Votes H2H 10 25/09,Max Gawn (MEL),1.68
+Player Votes H2H 10 25/09,Tim English (WB),2.1
+Player Votes H2H 11 25/09,Joe Daniher (BRI),1.68
+Player Votes H2H 11 25/09,Jeremy Finlayson (PA),2.1
+Player Votes H2H 12 25/09,Daniel Rioli (RIC),1.75
+Player Votes H2H 12 25/09,Nick Blakey (SYD),2.0
+Player Votes H2H 13 25/09,Noah Anderson (GC),1.8
+Player Votes H2H 13 25/09,Jack Sinclair (STK),1.95
+Player Votes H2H 2 25/09,Andrew Brayshaw (FRE),1.68
+Player Votes H2H 2 25/09,Jack Viney (MEL),2.1
+Player Votes H2H 3 25/09,James Sicily (HAW),1.6
+Player Votes H2H 3 25/09,Adam Cerra (CAR),2.25
+Player Votes H2H 4 25/09,Chad Warner (SYD),1.8
+Player Votes H2H 4 25/09,Clayton Oliver (MEL),1.95
+Player Votes H2H 5 25/09,Jeremy Cameron (GEE),1.5
+Player Votes H2H 5 25/09,Josh Kelly (GWS),2.45
+Player Votes H2H 6 25/09,Dustin Martin (RIC),1.65
+Player Votes H2H 6 25/09,Matt Rowell (GC),2.15
+Player Votes H2H 7 25/09,Jai Newcombe (HAW),1.65
+Player Votes H2H 7 25/09,Luke Davies-Uniacke (NM),2.15
+Player Votes H2H 8 25/09,Luke Jackson (FRE),1.75
+Player Votes H2H 8 25/09,Luke Parker (SYD),2.0
+Player Votes H2H 9 25/09,Josh Daicos (COL),1.5
+Player Votes H2H 9 25/09,Nic Martin (ESS),2.45
+Bnl Caleb Serong Votes 25/09,Serong Over 23.5 Votes,1.8
+Bnl Caleb Serong Votes 25/09,Serong Under 23.5 Votes,1.95
+Bnl Christian Petracca Votes 25/09,Petracca Over 28.5 Votes,2.0
+Bnl Christian Petracca Votes 25/09,Petracca Under 28.5 Votes,1.75
+Bnl Connor Rozee Votes 25/09,Rozee Over 22.5 Votes,1.95
+Bnl Connor Rozee Votes 25/09,Rozee Under 22.5 Votes,1.8
+Bnl Errol Gulden Votes 25/09,Gulden Over 22.5 Votes,1.87
+Bnl Errol Gulden Votes 25/09,Gulden Under 22.5 Votes,1.87
+Bnl Jack Sinclair Votes 25/09,Sinclair Over 17.5 Votes,1.75
+Bnl Jack Sinclair Votes 25/09,Sinclair Under 17.5 Votes,2.0
+Bnl Jordan Dawson Votes 25/09,Dawson Over 20.5 Votes,1.87
+Bnl Jordan Dawson Votes 25/09,Dawson Under 20.5 Votes,1.87
+Bnl Lachie Neale Votes 25/09,Neale Over 26.5 Votes,2.0
+Bnl Lachie Neale Votes 25/09,Neale Under 26.5 Votes,1.75
+Bnl Marcus Bontempelli Votes 25/09,Bontempelli Over 29.5 Votes,1.87
+Bnl Marcus Bontempelli Votes 25/09,Bontempelli Under 29.5 Votes,1.87
+Bnl Nick Daicos Votes 25/09,N. Daicos Over 29.5 Votes,1.7
+Bnl Nick Daicos Votes 25/09,N. Daicos Under 29.5 Votes,2.1
+Bnl Noah Anderson Votes 25/09,Anderson Over 18.5 Votes,1.72
+Bnl Noah Anderson Votes 25/09,Anderson Under 18.5 Votes,2.05
+Bnl Patrick Cripps Votes 25/09,Cripps Over 16.5 Votes,1.75
+Bnl Patrick Cripps Votes 25/09,Cripps Under 16.5 Votes,2.0
+Bnl Tim Taranto Votes 25/09,Taranto Over 24.5 Votes,2.25
+Bnl Tim Taranto Votes 25/09,Taranto Under 24.5 Votes,1.6
+Bnl Toby Greene Votes 25/09,Greene Over 18.5 Votes,1.72
+Bnl Toby Greene Votes 25/09,Greene Under 18.5 Votes,2.05
+Bnl Zach Merrett Votes 25/09,Merrett Over 20.5 Votes,1.87
+Bnl Zach Merrett Votes 25/09,Merrett Under 20.5 Votes,1.87
+Bnl Zak Butters Votes 25/09,Butters Over 27.5 Votes,1.8
+Bnl Zak Butters Votes 25/09,Butters Under 27.5 Votes,1.95
+Adelaide Team Total Votes 25/09,Adelaide Over 79.5,1.87
+Adelaide Team Total Votes 25/09,Adelaide Under 79.5,1.87
+Brisbane Team Total Votes 25/09,Brisbane Over 84.5,1.87
+Brisbane Team Total Votes 25/09,Brisbane Under 84.5,1.87
+Carlton Team Total Votes 25/09,Carlton Over 74.5,1.87
+Carlton Team Total Votes 25/09,Carlton Under 74.5,1.87
+Collingwood Team Total Votes 25/09,Collingwood Over 93.5,1.87
+Collingwood Team Total Votes 25/09,Collingwood Under x93.5,1.87
+Essendon Team Total Votes 25/09,Essendon Over 66.5,1.87
+Essendon Team Total Votes 25/09,Essendon Under 66.5,1.87
+Fremantle Team Total Votes 25/09,Fremantle Over 69.5,1.87
+Fremantle Team Total Votes 25/09,Fremantle Under 69.5,1.87
+GWS Team Total Votes 25/09,GWS Over 76.5,1.87
+GWS Team Total Votes 25/09,GWS Under 76.5,1.87
+Geelong Team Total Votes 25/09,Geelong Over 60.5,1.87
+Geelong Team Total Votes 25/09,Geelong Under 60.5,1.87
+Gold Coast Team Total Votes 25/09,Gold Coast Over 61.5,1.87
+Gold Coast Team Total Votes 25/09,Gold Coast Under 61.5,1.87
+Hawthorn Team Total Votes 25/09,Hawthorn Over 52.5,1.95
+Hawthorn Team Total Votes 25/09,Hawthorn Under 52.5,1.8
+Melbourne Team Total Votes 25/09,Melbourne Over 89.5,1.87
+Melbourne Team Total Votes 25/09,Melbourne Under 89.5,1.87
+Port Adel Team Total Votes 25/09,Port Adelaide Over 86.5,1.87
+Port Adel Team Total Votes 25/09,Port Adelaide Under 86.5,1.87
+Richmond Team Total Votes 25/09,Richmond Over 65.5,1.87
+Richmond Team Total Votes 25/09,Richmond Under 65.5,1.87
+St Kilda Team Total Votes 25/09,St Kilda Over 71.5,1.87
+St Kilda Team Total Votes 25/09,St Kilda Under 71.5,1.87
+Sydney Team Total Votes 25/09,Sydney Over 74.5,1.87
+Sydney Team Total Votes 25/09,Sydney Under 74.5,1.87
+West Coast Team Total Votes 25/09,West Coast Over 22.5,1.87
+West Coast Team Total Votes 25/09,West Coast Under 22.5,1.87
+Wst Bdgs Team Total Votes 25/09,Western Bulldogs Over 79.5,1.87
+Wst Bdgs Team Total Votes 25/09,Western Bulldogs Under 79.5,1.87

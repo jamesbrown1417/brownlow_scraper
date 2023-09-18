@@ -17,12 +17,13 @@ proposition_name = []
 market_price = []
 
 # Get the data from the JSON
-for player in data['matches'][0]['markets']:
-    for proposition in player['propositions']:
-        proposition_name.append(proposition['name'])
-        market_name.append(player['name'])
-        market_price.append(proposition['returnWin'])
-        
+for match in data['matches']:
+    for player in match['markets']:
+        for proposition in player['propositions']:
+            proposition_name.append(proposition['name'])
+            market_name.append(player['name'])
+            market_price.append(proposition['returnWin'])
+            
 # Create a dataframe
 df_outright = pd.DataFrame({'market_name': market_name, 'proposition_name': proposition_name, 'market_price': market_price})
 
@@ -55,7 +56,7 @@ df_team_votes = pd.DataFrame({'market_name': market_name, 'player_name': player_
 #==============================================================================
 
 # Main Markets
-df_outright.to_csv('Data/outright.csv', index=False)
+df_outright.to_csv('Data/tab_outright.csv', index=False)
 
 # Team Votes
-df_team_votes.to_csv('Data/team_votes.csv', index=False)
+df_team_votes.to_csv('Data/tab_team_votes.csv', index=False)

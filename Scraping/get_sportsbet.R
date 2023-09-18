@@ -5,24 +5,9 @@ library(rvest)
 # Outright Winner
 #==============================================================================
 
-url <- "https://www.sportsbet.com.au/betting/australian-rules/afl-brownlow-medal"
-outright_brownlow_page <- read_html(url)
-
-# Get the names of the players and prices into a tibble
-outright_brownlow <-
-outright_brownlow_page |>
- html_nodes(".outcomeContainer_f1wc7xgg ") |>
-  html_text() |>
-  tibble() |>
-  rename(value = 1)
-
-# Split the tibble into two columns
-outright_brownlow <-
-  outright_brownlow |>
-  mutate(market = value,
-         price = str_extract(value, "\\d+\\.\\d+")) |>
-         mutate(price = as.numeric(price)) |>
-         select(-value)
+url_outright <- "https://www.sportsbet.com.au/betting/australian-rules/afl-brownlow-medal/2023-afl-brownlow-medal-6812951"
+url_h2h <- "https://www.sportsbet.com.au/betting/australian-rules/afl-brownlow-h2hs"
+url_ou <- "https://www.sportsbet.com.au/betting/australian-rules/afl-brownlow-player-votes"
 
 #==============================================================================
 # Team Votes
